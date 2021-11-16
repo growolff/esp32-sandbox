@@ -1,3 +1,12 @@
+/*
+ * in file secrets.h you have to define:
+ * 
+ * #define BMPCHANNEL_API_KEY "your_channel_api_key" // string
+ * #define BMPCHANNEL_ID your_channel_id  // number 
+ * #define WIFI_SSID "your wifi ssid";   // your network SSID (name) 
+ * #define WIFI_PSK "your wifi pass";   // your network password
+ * 
+ */
 
 #include "secrets.h"
 #include <Wire.h>
