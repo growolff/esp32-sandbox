@@ -1,2 +1,2 @@
-# esp32-test-codes
+# esp32-sandbox
 Códigos para el microcontrolador esp32
